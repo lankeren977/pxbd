@@ -6,9 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bigdata.hadoop.mr" />
         <module name="bigdatahadoopmr" />
+        <module name="scupxbdbigdata" />
+        <module name="scupxbdflow" />
+        <module name="scupxbdflowplus" />
+        <module name="scupxbdscala" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="scdxpxbdzqr" target="1.5" />
+      <module name="scupxbdzqr" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
