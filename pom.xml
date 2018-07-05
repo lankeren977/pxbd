@@ -13,6 +13,7 @@
         <module>scu.pxbd.scala</module>
         <module>scu.pxbd.flow</module>
         <module>scu.pxbd.flowplus</module>
+        <module>scu.pxbd.spark</module>
     </modules>
 
     <dependencies>
@@ -29,6 +30,13 @@
             <artifactId>hadoop-client</artifactId>
             <version>2.6.5</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-core -->
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-core_2.11</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+
 
     </dependencies>
 </project>

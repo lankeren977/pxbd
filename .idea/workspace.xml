@@ -2,32 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b169b81-4ee2-4f4b-9605-7827f8a6ce4a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.bigdata/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.bigdata/src/main/java/scu/pxbd/zqr/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.flow/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.flow/src/main/java/scu/pxbd/flow/FlowCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.flowplus/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.flowplus/src/main/java/scu/pxbd/flowplus/FlowBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.flowplus/src/main/java/scu/pxbd/flowplus/FlowCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day1/BlockExpression.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day1/CommonType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day1/HelloScala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day1/JugeExpression.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day1/Variable.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/ArrayDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/FunctionDef.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/ListDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/LoopDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/MapDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/MethodDef.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/ReadMe.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/SetDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/TupleDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo05.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo06.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Animal.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Bird.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Closure.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Fly.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/ImplicitDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/LowAnimal.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/LuanSheng.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/OptionDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/PartialDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Person.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.spark/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scu.pxbd.spark/src/main/java/scu/pxbd/spark1/HelloSpark.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -39,6 +32,7 @@
     <ignored path="$PROJECT_DIR$/scu.pxbd.scala/target/" />
     <ignored path="$PROJECT_DIR$/scu.pxbd.flow/target/" />
     <ignored path="$PROJECT_DIR$/scu.pxbd.flowplus/target/" />
+    <ignored path="$PROJECT_DIR$/scu.pxbd.spark/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +55,32 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloSpark.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scu.pxbd.spark/src/main/java/scu/pxbd/spark1/HelloSpark.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Package Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -83,14 +96,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/.m2/settings.xml" />
-        <option value="$PROJECT_DIR$/px.java" />
-        <option value="$PROJECT_DIR$/1.java" />
-        <option value="$PROJECT_DIR$/java/here.java" />
-        <option value="$PROJECT_DIR$/src/java/test.java" />
-        <option value="$PROJECT_DIR$/scu.pxbd.zqr/src/main/java/scu/pxbd/zqr/WordCount.java" />
         <option value="$PROJECT_DIR$/scdx.pxbd.zqr/src/main/java/WordCount.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/scu.pxbd.bigdata/src/main/java/WordCount.java" />
         <option value="$PROJECT_DIR$/scu.pxbd.bigdata/src/main/java/scu/pxbd/zqr/WordCount.java" />
         <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/HelloScala.scala" />
@@ -123,6 +129,24 @@
         <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/SetDemo.scala" />
         <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/ListDemo.scala" />
         <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day2/ReadMe.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Animal.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/LuanSheng.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Person.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Fly.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/PartialDemo.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/OptionDemo.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/LowAnimal.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Bird.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Closure.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/ImplicitDemo.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo01.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo02.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo03.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo04.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo05.scala" />
+        <option value="$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo06.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/scu.pxbd.spark/src/main/java/scu/pxbd/spark1/HelloSpark.scala" />
       </list>
     </option>
   </component>
@@ -148,11 +172,11 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="scu.pxbd.flowplus" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="scu.pxbd.spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="scu.pxbd.flowplus" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="scu.pxbd.spark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -162,14 +186,18 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="739" />
-    <option name="width" value="1179" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="428" />
+    <option name="y" value="72" />
+    <option name="width" value="1120" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -183,45 +211,45 @@
             <path>
               <item name="bigdatahadoopmr" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdatahadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="scu.pxbd.scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scu.pxbd.spark" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdatahadoopmr" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdatahadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="scu.pxbd.scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scu.pxbd.spark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdatahadoopmr" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdatahadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="scu.pxbd.scala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdatahadoopmr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdatahadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="scu.pxbd.scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scu.pxbd.spark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdatahadoopmr" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdatahadoopmr" type="462c0819:PsiDirectoryNode" />
-              <item name="scu.pxbd.scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scu.pxbd.spark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdatahadoopmr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdatahadoopmr" type="462c0819:PsiDirectoryNode" />
+              <item name="scu.pxbd.spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spark1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,58 +275,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadMe">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day2.ArrayDemo" />
+  <component name="RunManager" selected="Application.HelloSpark">
+    <configuration name="Bird" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day3.Bird" />
       <module name="scupxbdscala" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scu.pxbd.scala.scala_day2.*" />
+          <option name="PATTERN" value="scu.pxbd.scala.scala_day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day2.ListDemo" />
+    <configuration name="CaseDemo06" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.patternmatch.CaseDemo06" />
       <module name="scupxbdscala" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scu.pxbd.scala.scala_day2.*" />
+          <option name="PATTERN" value="scu.pxbd.scala.patternmatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day2.MapDemo" />
+    <configuration name="Closure" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day3.Closure" />
       <module name="scupxbdscala" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scu.pxbd.scala.scala_day2.*" />
+          <option name="PATTERN" value="scu.pxbd.scala.scala_day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ReadMe" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day2.ReadMe" />
-      <module name="scupxbdscala" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="HelloSpark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scu.pxbd.spark1.HelloSpark" />
+      <module name="scupxbdspark" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scu.pxbd.scala.scala_day2.*" />
+          <option name="PATTERN" value="scu.pxbd.spark1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TupleDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day2.TupleDemo" />
+    <configuration name="ImplicitDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scu.pxbd.scala.scala_day3.ImplicitDemo" />
       <module name="scupxbdscala" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scu.pxbd.scala.scala_day2.*" />
+          <option name="PATTERN" value="scu.pxbd.scala.scala_day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,19 +373,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TupleDemo" />
-      <item itemvalue="Application.ArrayDemo" />
-      <item itemvalue="Application.MapDemo" />
-      <item itemvalue="Application.ListDemo" />
-      <item itemvalue="Application.ReadMe" />
+      <item itemvalue="Application.Bird" />
+      <item itemvalue="Application.Closure" />
+      <item itemvalue="Application.ImplicitDemo" />
+      <item itemvalue="Application.CaseDemo06" />
+      <item itemvalue="Application.HelloSpark" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadMe" />
-        <item itemvalue="Application.ListDemo" />
-        <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.TupleDemo" />
+        <item itemvalue="Application.HelloSpark" />
+        <item itemvalue="Application.CaseDemo06" />
+        <item itemvalue="Application.ImplicitDemo" />
+        <item itemvalue="Application.Closure" />
+        <item itemvalue="Application.Bird" />
       </list>
     </recent_temporary>
   </component>
@@ -380,46 +408,83 @@
       <workItem from="1530326172874" duration="19386000" />
       <workItem from="1530350496652" duration="539000" />
       <workItem from="1530493419590" duration="20153000" />
-      <workItem from="1530578407202" duration="2021000" />
+      <workItem from="1530578407202" duration="5581000" />
+      <workItem from="1530685942503" duration="1225000" />
+      <workItem from="1530687192359" duration="7677000" />
+      <workItem from="1530695239706" duration="1959000" />
+      <workItem from="1530697391419" duration="648000" />
+      <workItem from="1530754606432" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68391000" />
+    <option name="totallyTimeSpent" value="84090000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="739" y="0" width="1179" height="1040" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.56208426" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.29264393" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.24786781" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7184035" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2832244" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3100983" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.16577825" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32887402" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3191721" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7184035" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3100983" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.56208426" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.29264393" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -437,74 +502,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/here.java" />
-    <entry file="file://$PROJECT_DIR$/1.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/test.java" />
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.zqr/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/bigdatahadoopmr.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.zqr/src/main/java/scu/pxbd/zqr/WordCount.java" />
-    <entry file="file://$PROJECT_DIR$/scdx.pxbd.zqr/src/main/java/WordCount.java" />
-    <entry file="file://$PROJECT_DIR$/scdx.pxbd.zqr/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.bigdata/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.bigdata/target/classes/WordCount.class" />
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.bigdata/src/main/java/WordCount.java" />
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.flow/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.bigdata/src/main/java/scu/pxbd/zqr/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="63" column="44" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.flow/src/main/java/scu/pxbd/flow/Text_G.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5.jar!/org/apache/hadoop/io/Text.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapred/JobConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="1098" column="22" selection-start-line="1098" selection-start-column="22" selection-end-line="1098" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="892" column="14" selection-start-line="892" selection-start-column="14" selection-end-line="892" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.flow/src/main/java/scu/pxbd/flow/FlowBean.java" />
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.flow/src/main/java/scu/pxbd/flow/FlowModel.java" />
-    <entry file="file://$PROJECT_DIR$/scu.pxbd.flow/src/main/java/scu/pxbd/flow/FlowBeanOne.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapreduce/Reducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3197">
-          <caret line="162" column="19" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-476">
@@ -513,13 +510,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scu.pxbd.flow/src/main/java/scu/pxbd/flow/FlowPaiXu.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -682,6 +672,141 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Animal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/LuanSheng.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Fly.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/PartialDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/LowAnimal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Closure.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/Bird.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/OptionDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/package.scala" />
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/scala_day3/ImplicitDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/package.scala" />
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.scala/src/main/java/scu/pxbd/scala/patternmatch/CaseDemo06.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdatahadoopmr.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.spark/src/main/java/spark_day1.java" />
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scu.pxbd.spark/src/main/java/scu/pxbd/spark1/HelloSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -711,7 +836,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.01</last-edited>
+          <last-edited>scala-sdk-2.11.02</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

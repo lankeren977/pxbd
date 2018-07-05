@@ -11,6 +11,7 @@
         <module name="scupxbdflow" />
         <module name="scupxbdflowplus" />
         <module name="scupxbdscala" />
+        <module name="scupxbdspark" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
